@@ -1,1 +1,1 @@
-# smallgames
+# Making mini games in C
